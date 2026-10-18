@@ -187,3 +187,8 @@ d:\URBAN PULSE/
 
 ## 📜 License
 MIT License — UrbanPulse Project.
+
+
+## Reconstructed source and math verification
+
+This version restores a functional `js/main.js` and adds `js/formulas.js` with the seven models described above. Run `node --test tests/formulas.test.mjs` to verify basic numerical examples. This is an educational reconstruction; see `CHANGES.md` for estimated parameters and differences from the original.
