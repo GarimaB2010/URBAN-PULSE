@@ -1,4 +1,4 @@
-# UrbanPulse v17 — Heatmap and Formula Verification
+# UrbanPulse  — Heatmap and Formula Verification
 
 ## Heatmap
 - Thermal Heatmap and Dual Overlay now share a continuous cold-to-hot palette: **blue → cyan → teal → green → yellow → orange → red → dark red**.
