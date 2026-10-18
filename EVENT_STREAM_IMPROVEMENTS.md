@@ -1,4 +1,4 @@
-# UrbanPulse v10 — Event Stream
+# UrbanPulse version 10 — Event Stream
 
 - Event feed shows current offline nodes, total failure/warning events and accumulated downtime cost.
 - New failures distinguish direct overheating from downstream cascading failures.
