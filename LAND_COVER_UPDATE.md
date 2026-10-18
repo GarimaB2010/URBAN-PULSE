@@ -1,0 +1,1 @@
+Land Cover now uses a dark city-planning palette matching the supplied screenshot: slate buildings, navy roads, amber utility hubs, green trees and parks, teal water. Utility hubs show a lightning icon; temperature numbers are hidden only in Land Cover mode. Hybrid, Network, Thermal Heatmap, sensor integration, and formulas remain unchanged.
